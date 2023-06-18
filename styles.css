@@ -258,4 +258,15 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+.projects__item{
+ margin: 15px 10px;
+}
+.projects__item-link{
+ color: var(--primary-text-color);
+ font-size: 20px;
+ font-weight: 800;
+}
+.projects__item-desc{
+ padding-top: 10px;
+}
 
